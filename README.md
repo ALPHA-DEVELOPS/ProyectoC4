@@ -9,3 +9,5 @@ Scrum Master
 Diana Maria Lozano Gonzalez
 lozanogonzalezd@gmail.com
 Administrador de configuración 
+
+Anderson
