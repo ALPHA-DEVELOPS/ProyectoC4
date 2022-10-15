@@ -13,3 +13,6 @@ Administrador de configuración
 Anderson Cortes
 ecosur50@gmail.com
 Product Owner
+
+fredi suesca
+fredisuesca@gmail.com
