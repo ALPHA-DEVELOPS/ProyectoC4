@@ -18,7 +18,7 @@ Anderson Cortes
 ecosur50@gmail.com
 Developer 
 
-fredi Suesca
+Fredi Suesca
 fredisuesca@gmail.com
 Developer
 
