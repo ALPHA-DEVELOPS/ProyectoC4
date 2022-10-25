@@ -1,7 +1,7 @@
  
 <h2>Project cycle 4th deepening web development</h2>
 
-![image](https://user-images.githubusercontent.com/36646104/196064467-35f268a8-3260-4f07-9682-82ac522d3c9f.png =250x)
+![image](https://user-images.githubusercontent.com/36646104/196064467-35f268a8-3260-4f07-9682-82ac522d3c9f.png)
 
 
 #Participants
@@ -18,8 +18,12 @@ Anderson Cortes
 ecosur50@gmail.com
 Developer 
 
-fredi suesca
+fredi Suesca
 fredisuesca@gmail.com
+Developer
+
+Camilo Mora
+camilomora02@gmail.com
 Developer
 
 Brandon Enrique Chavez
