@@ -18,7 +18,7 @@ Tienda virtual
 | Anderson Cortes | ecosur50@gmail.com | Developer  |
 |Fredi Suesca |  fredisuesca@gmail.com | Developer |
 | Camilo Mora | camilomora02@gmail.com | Developer |
-|Brandon Enrique Chavez | Product Owner | ---|
+|Brandon Enrique Chavez | --| Product Owner |
 
 
 
