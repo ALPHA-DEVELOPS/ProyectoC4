@@ -13,9 +13,7 @@ Tienda virtual
 
 | Integrantes | Email |  Rol |
 |-------------|-------|-------|
-
 |Juan David Marín Jiménez|jdmarinj@gmail.com |Scrum Master |
-
 | Diana Maria Lozano Gonzalez | lozanogonzalezd@gmail.com |Developer |
 | Anderson Cortes | ecosur50@gmail.com | Developer  |
 |Fredi Suesca |  fredisuesca@gmail.com | Developer |
