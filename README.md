@@ -2,7 +2,7 @@
 <h2>Project cycle 4th deepening web development</h2>
 
 
-# SportCenter
+# SportsCenter
 
 Tienda virtual 
 
