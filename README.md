@@ -1,33 +1,26 @@
-<h1>Team Alpha Develops</h1> 
+<h1>Alpha Develops Team </h1> 
 <h2>Project cycle 4th deepening web development</h2>
 
-![image](https://www.arsys.es/blog/file/uploads/2017/07/apps-Javascript.jpg)
 
+# SportCenter
 
+Tienda virtual 
+
+![image](https://spec-offers-static.windyapp.co/singapore.Sports%20Center.jpg)
+
+## Contexto 
 #Participants
 
-Juan David Marín Jiménez
-jdmarinj@gmail.com
-Scrum Master
+| Integrantes | Email -  Rol |
+|-------------|-------|-------|
 
-Diana Maria Lozano Gonzalez
-lozanogonzalezd@gmail.com
-Developer 
+|Juan David Marín Jiménez|jdmarinj@gmail.com |Scrum Master |
 
-Anderson Cortes
-ecosur50@gmail.com
-Developer 
-
-Fredi Suesca
-fredisuesca@gmail.com
-Developer
-
-Camilo Mora
-camilomora02@gmail.com
-Developer
-
-Brandon Enrique Chavez
-Product Owner
+| Diana Maria Lozano Gonzalez | lozanogonzalezd@gmail.com |Developer |
+| Anderson Cortes | ecosur50@gmail.com | Developer  |
+|Fredi Suesca |  fredisuesca@gmail.com | Developer |
+| Camilo Mora | camilomora02@gmail.com | Developer |
+|Brandon Enrique Chavez | Product Owner | ---|
 
 
 
